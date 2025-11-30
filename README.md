@@ -50,7 +50,7 @@ Progetto realizzato da studenti dell’indirizzo informatico:
 ## 🚀 Come usare il progetto
 
 1. Clona il repository:
-git clone https://github.com/tuo-username/cavalleria-su-due-ruote.git
+git clone [https://github.com/tuo-username/cavalleria-su-due-ruote.git](https://github.com/Malaka-Gonawala/Cavaleria_su_due_ruote.git)
 
 2. Apri index.html in un browser per visualizzare il sito.
 
