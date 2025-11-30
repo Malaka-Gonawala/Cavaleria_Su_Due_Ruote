@@ -40,8 +40,8 @@ Progetto realizzato da studenti dell’indirizzo informatico:
 
 - Malaka — Front-End Developer  
 - Stefano — Cercatore di immagini  
-- Nour — Ricerca di informazioni 1  
-- Emanuele — Ricerca di informazioni 2  
+- Nour — Ricercatore di informazioni 1  
+- Emanuele — Ricercatore di informazioni 2  
 
 *(I nomi e le immagini sono utilizzati con consenso e senza informazioni sensibili.)*
 
