@@ -27,7 +27,6 @@ let title = document.querySelector("#Title-Container");
 let scrollTimeout;
 let minScrollHeight;
 let loc = window.location.href;
-console.log(loc);
 
 if (
     loc.includes("/html/modelli.html") ||
